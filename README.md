@@ -53,7 +53,6 @@ Program to sort the elements in the list using the Insertion Sort algorithm.
 Developed by:Kancahrla Narmadha
 
 RegisterNumber: 212222110016
-```
 
 def insertion_sort(nums):
     # Write your code here to sort the elements in the list using Insertion sort algorithm
@@ -70,8 +69,8 @@ list_of_nums = eval(input())
 insertion_sort(list_of_nums)
 # use the insertion sort function to get the sorted list
 # print the sorted list
-
 ```
+
 
 ## Output:
 
